@@ -1,0 +1,9 @@
+/* src/styles/App.css */
+.container {
+    color: black; /* Couleur du texte */
+  }
+  
+  table {
+    border: 2px solid black; /* Bordure du tableau */
+  }
+  
